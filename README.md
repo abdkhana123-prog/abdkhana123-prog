@@ -4,10 +4,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Intermediate in Computer Science (ICS) at Punjab College Jauharabad[cite: 1]
-- 💡 **Specialization:** Building Full-Stack SaaS tools, AI Customer Support Chatbots, and Workflow Automations[cite: 1]
-- 🎯 **Focus Areas:** Lead qualification, Customer support systems, Business process improvement, Responsive UI development[cite: 1]
-- 💼 **Availability:** Open for supervised remote internships or part-time junior opportunities[cite: 1]
+- 🎓 **Education:** Intermediate in Computer Science (ICS) at Punjab College Jauharabad
+- 💡 **Specialization:** Building Full-Stack SaaS tools, AI Customer Support Chatbots, and Workflow Automation
+- 🎯 **Focus Areas:** Lead qualification, Customer support systems, Business process improvement, Responsive UI developments
+- 💼 **Availability:** Open for supervised remote internships or part-time junior opportunities
 
 ---
 
